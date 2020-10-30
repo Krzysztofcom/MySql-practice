@@ -1,0 +1,2 @@
+# MySql-practice
+Sql revision
