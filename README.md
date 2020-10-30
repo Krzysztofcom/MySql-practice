@@ -1,2 +1,2 @@
 # MySql-practice
-Sql revision
+Sql repeat
